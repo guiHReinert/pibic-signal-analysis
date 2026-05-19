@@ -16,6 +16,3 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
-
-# Windows zone identifiers
-*.Identifier
