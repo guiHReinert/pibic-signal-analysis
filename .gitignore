@@ -16,3 +16,6 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+
+notebooks/DATA/
+notebooks/databook_python-master/
